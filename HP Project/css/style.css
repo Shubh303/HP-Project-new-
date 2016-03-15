@@ -1,0 +1,27 @@
+h2
+{
+	color: white;
+}
+#footer
+{
+	background-color: black;
+	height: 40px;
+	width: 100%;
+	color: white;
+	padding: 0px;
+}
+#img
+{
+	text-align: center;
+}
+#blackbox
+{
+	height: 100px;
+}
+#HarryPotter
+{
+	text-align: center;
+	color: white;
+	padding: 5px;
+	margin: auto auto;
+}
